@@ -39,10 +39,9 @@ Soy estudiante de Ingeniería de Sistemas en la UMSS y Técnico Medio en Electri
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruddy500&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruddy500&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes principales" />
-</div>
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ruddy500&show_icons=true&theme=tokyonight&hide_border=true&v=1)
+
+![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=ruddy500&layout=compact&theme=tokyonight&hide_border=true&v=1)
 
 ---
 
