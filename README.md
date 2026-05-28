@@ -37,30 +37,6 @@ Soy estudiante de Ingeniería de Sistemas en la UMSS y Técnico Medio en Electri
 
 ---
 
-## 🚀 Proyectos Destacados
-
-### 💧 Esmalte Digital *(Privado / En Desarrollo)*
-Sistema integral de gestión digital y facturación automatizada diseñado para cooperativas de agua comunitarias.
-- **Stack:** Laravel, MySQL.
-- **Impacto:** Automatización del control de deudas, procesos de facturación y gestión del historial de usuarios para la comunidad.
-
-### 🌱 Smart Greenhouse IoT System
-Sistema profesional de monitorización ambiental con panel de control en tiempo real.
-- **Stack:** Vue 3 (Frontend), FastAPI (Backend), ESP32 / Microcontroladores.
-- **Impacto:** Seguimiento en tiempo real de temperatura, humedad y niveles de CO2 para optimizar la gestión agrícola.
-
-### 🤖 WebSIS Automation Bot
-Script automatizado diseñado para navegar y asegurar el registro de materias en portales universitarios.
-- **Stack:** Python, Selenium.
-- **Impacto:** Superación de cuellos de botella manuales para automatizar flujos de trabajo institucionales complejos.
-
-### 📐 Scripts de Ingeniería en AutoCAD
-Desarrollo de scripts técnicos para la generación de planos geológicos e hidráulicos.
-- **Stack:** AutoLISP, AutoCAD.
-- **Impacto:** Automatización en la representación de perfiles de suelo y especificaciones de tuberías.
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
