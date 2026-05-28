@@ -1,7 +1,7 @@
 # ¡Hola! Soy Roger 👋
 ### Full-Stack Developer | IoT & Hardware Engineer | Systems Engineering Student
 
-Soy estudiante de Ingeniería de Sistemas en la UMSS y Técnico Medio en Electricidad. Me apasiona cerrar la brecha entre el hardware y el software, diseñando desde la arquitectura backend hasta la automatización física. Me especializo en construir sistemas robustos, optimizar redes e integrar dispositivos IoT en soluciones reales.
+Soy estudiante de Ingeniería de Sistemas en la UMSS y Técnico en Electricidad. Me apasiona cerrar la brecha entre el hardware y el software, diseñando desde la arquitectura backend hasta la automatización física. Me especializo en construir sistemas robustos, optimizar redes e integrar dispositivos IoT en soluciones reales.
 
 - ⚙️ **Enfoque actual:** Desarrollo web Full-Stack, implementación de sistemas IoT profesionales y automatización.
 - 🐧 **Entorno de trabajo:** Usuario avanzado de Linux (Mint/XFCE) optimizado para desarrollo y hardware.
